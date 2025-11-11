@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 Level.uasset filter=lfs diff=lfs merge=lfs -text
+MainMenu.uasset filter=lfs diff=lfs merge=lfs -text
